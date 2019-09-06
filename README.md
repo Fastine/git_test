@@ -1,0 +1,1 @@
+This is Fastine's first git project!
